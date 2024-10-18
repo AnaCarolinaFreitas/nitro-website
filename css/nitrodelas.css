@@ -14,8 +14,8 @@ body{
 }
 
 nav{
-    background-color: #121c50;
-    box-shadow: 3px 3px 10px #ec782bdc;
+    background-color: pink;
+    box-shadow: 3px 3px 10px rgb(216, 128, 143);
    
 }
 
@@ -56,9 +56,9 @@ nav a:hover{
     height: 100vh;
     width: 250px;
     z-index: 999;
-    background-color: #121c50cb;
+    background-color: rgba(255, 192, 203, 0.604);
     backdrop-filter: blur(10px);
-    box-shadow: -10px 0px 10px rgba(53, 53, 53, 0.466);
+    box-shadow: -10px 0px 10px rgba(216, 128, 143, 0.404);
     display: none;
     flex-direction: column;
     align-items: flex-start;
